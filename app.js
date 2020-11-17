@@ -12,9 +12,9 @@ const hook = new Webhook(webHookURL);
  * @param {String} id - The user ID of the Twitter user.
  */
 const tUser = {
-    hookName: 'Donald J Trump',
-    username: 'realDonaldTrump',
-    id: '25073877'
+    hookName: 'EnterName',
+    username: 'EnterHandleWithout@',
+    id: 'EnterID'
 };
 
 console.log('donald-node is now online!');
